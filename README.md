@@ -10,7 +10,7 @@ MenoSense is an AI-driven tool designed to predict menopause onset using househo
 - **Data Handling:** Class imbalance was addressed using **oversampling**, leading to improved model performance.
 
 ## 🧠 Machine Learning Approach
-- **Model Used:** Random Forest Classifier
+- **Model Used:** Gradient Boosting Classifier. Gradient Boosting Regressor
 - **Accuracy:** 97.78%
 - **F1 Score:** 0.98
 - **Improvements:** Applied oversampling to reduce bias towards the majority class.
