@@ -29,4 +29,7 @@ Users need to provide:
 
 ## 📈 Model Performance
 - **Confusion Matrix:** Shows strong performance in predicting post-menopausal status.
-- **F1 score** 
+- **F1 score**
+  
+## License
+This project is licensed under the MIT License. Please give credit if you use this code.
